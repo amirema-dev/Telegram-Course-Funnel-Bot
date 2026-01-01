@@ -35,7 +35,7 @@ Check out the live version running for the "Too America" academy:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/nightcoder-officiall/REPO_NAME.git](https://github.com/nightcoder-officiall/Telegram-Course-Funnel-Bot)
+    git clone https://github.com/nightcoder-officiall/Telegram-Course-Funnel-Bot
     cd REPO_NAME
     ```
 
