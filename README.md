@@ -2,11 +2,6 @@
 
 A professional Telegram bot designed for automated lead generation, user segmentation, and delivering mini-courses. Built with Python and `pyTelegramBotAPI`, featuring a robust admin panel, SQLite database, and automated follow-up timers.
 
-## 🤖 Live Demo
-Check out the live version running for the "Too America" academy:
-> **[👉 Click here to Start (@tooamerica_minibot)](https://t.me/tooamerica_minibot)**
-
-*(Note: This is a live production bot. Please interact respectfully!)*
 
 ---
 
