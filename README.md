@@ -36,7 +36,7 @@ Check out the live version running for the "Too America" academy:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/nightcoder-officiall/Telegram-Course-Funnel-Bot
-    cd REPO_NAME
+    cd Telegram-Course-Funnel-Bot
     ```
 
 2.  **Install dependencies:**
