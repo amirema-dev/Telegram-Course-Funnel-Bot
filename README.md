@@ -29,23 +29,24 @@ A professional Telegram bot designed for automated lead generation, user segment
 ## 🚀 Installation & Setup
 
 1.  **Clone the repository:**
+   
     ```bash
     git clone https://github.com/amirema-dev/Telegram-Course-Funnel-Bot
     cd Telegram-Course-Funnel-Bot
     ```
 
-2.  **Install dependencies:**
+3.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-3.  **Configure the bot:**
+4.  **Configure the bot:**
     * Open `config.py`.
     * Set your `BOT_TOKEN` (get from @BotFather).
     * Add your numeric Telegram ID to `ADMIN_IDS`.
     * Set up your Channel IDs and Media File IDs.
 
-4.  **Run the bot:**
+5.  **Run the bot:**
     ```bash
     python bot.py
     ```
