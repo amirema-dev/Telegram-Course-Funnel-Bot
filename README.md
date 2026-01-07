@@ -30,7 +30,7 @@ A professional Telegram bot designed for automated lead generation, user segment
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/nightcoder-officiall/Telegram-Course-Funnel-Bot
+    git clone https://github.com/amirema-dev/Telegram-Course-Funnel-Bot
     cd Telegram-Course-Funnel-Bot
     ```
 
@@ -73,10 +73,10 @@ The following libraries are required to run the bot. They will be automatically 
 
 ## 🤝 Contact & Support
 
-This project was developed by **[NightCoder](https://github.com/nightcoder-officiall)**. 
+This project was developed by **[Amir](https://github.com/amirema-dev)**. 
 I specialize in creating smart Telegram bots and automation tools.
 
-* **GitHub:** [nightcoder-officiall](https://github.com/nightcoder-officiall)
+* **GitHub:** [amirema-dev](https://github.com/amirema-dev)
 * **Telegram Bot Demo:** [@tooamerica_minibot](https://t.me/tooamerica_minibot)
 
 Feel free to reach out for custom bot development, collaborations, or if you have any questions! ✨
