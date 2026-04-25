@@ -78,7 +78,7 @@ This project was developed by **[Amir](https://github.com/amirema-dev)**.
 I specialize in creating smart Telegram bots and automation tools.
 
 * **GitHub:** [amirema-dev](https://github.com/amirema-dev)
-* **Telegram Bot Demo:** [@tooamerica_minibot](https://t.me/tooamerica_minibot)
+
 
 Feel free to reach out for custom bot development, collaborations, or if you have any questions! ✨
 
